@@ -2,7 +2,7 @@ package beans;
 
 public class Albergue {
 	
-	//BEAN ALBERGUE
+	//BEAN ALBERGUE -TEST
 	private String tipo;
 	private String nombre;
 	private String direccion;
